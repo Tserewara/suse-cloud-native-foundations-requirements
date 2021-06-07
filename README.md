@@ -2,7 +2,7 @@
 
 This is a list with the requirements for the SUSE Cloud Native Foundations Scholarship. It also has links to resources if you need to prepare for the course.
 
-## Disclosure
+## Disclaimer
 
 All the resources in this repo are available for free on Youtube and other sites. I used most of them in order to learn these topics some time ago. Also, they are meant to be short so you can finish them soon and spend more time in the actual program.
 
